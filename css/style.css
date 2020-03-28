@@ -1,0 +1,183 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color: #0CB808;
+  
+}
+
+.Derecha {
+  float: right;
+  color: black;
+}
+
+.div-container{
+  text-align: center;
+  padding: 1px;
+   width: 100%;
+   height: 350px;
+  background-color: #3C413F;
+  
+}
+.div-container h1  {
+  text-align: center;
+  color: #0CB808;
+ 
+  
+}
+
+.div-container p {
+  text-align: center;
+  color:#FFFFFF;
+  font-size: 1.4rem;
+  
+  
+}
+
+.btn-conoce{
+  color: #FFFFFF;
+  background-color: #1546C6;
+  position: relative;
+  top: 10px;
+  padding: 20px;
+  font-size: 15px ;
+  
+}
+
+
+.titulo-header{
+
+color: #0CB808;
+position: relative;
+
+}
+
+.parrafo{
+
+font-size:1.4rem;
+
+}
+
+.center-col{
+  text-align: left;
+  position: relative;
+  bottom: 100px;
+  
+}
+
+p {
+  line-height: 2rem;
+}
+
+.sidenav-trigger {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+
+.footer-cont{
+  text-align: center;
+  font-size: 3.0rem;
+}
+
+.footer-cont a {  
+  color: #0CB808;
+  
+}
+
+.izquierda{
+padding: 5px;
+margin-left: 20px;
+color: #FFFFFF;
+text-align: left;
+}
+
+.footer-derecha{
+  margin-left: 65%;
+  font-size: 1.4rem;
+  
+ 
+}
+
+/* css pagina 2 */
+
+.Derecha-two{
+  float: right;
+  color: #FFFFFF;
+  
+}
+
+.position-menu{
+width:90%;
+}
+
+.tamanio{
+  width:100%;
+}
+
+.post-menu-back{
+  margin-top: 50px;
+}
+
+.tam-head{
+  height: 720px;
+}
+
+.color-text{
+  font-size: 1.5rem;
+}
+
+.tam-back{
+height: 890px;
+} 
+
+ .set-planes{
+  width: auto;
+  height: auto;
+  margin-top:40px;
+  color: #FFFFFF;
+  text-align: center;
+} 
+
+
